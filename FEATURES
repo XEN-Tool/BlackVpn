@@ -1,0 +1,10 @@
+BlackVpn - Simple CLI VPN tool for Linux
+Author: XEN-Tool
+
+Features:
+- List around 50 VPN servers with real-time ping
+- Ultra fast server included (5 ms)
+- Easy server selection and quit option
+- All traffic is routed through VPN (non-detectable, untraceable)
+
+Disclaimer: By using BlackVpn, you do so at your own risk. Its your risk!
