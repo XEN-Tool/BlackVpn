@@ -1,3 +1,8 @@
 Open Kali Linux
 Open Terminal
-Write  
+Write - https://github.com/XEN-Tool/BlackVpn.git -
+enter
+Write - cd BlackVpn -
+enter 
+Write - bash BlackVpn.sh
+done !
